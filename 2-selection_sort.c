@@ -1,10 +1,11 @@
 #include "sort.h"
 
 /**
- * selection_sort - Trie un tableau d'entiers en utilisant l'algorithme du tri par sélection
+ * selection_sort - Trie un tableau d'entiers avec le tri par sélection
  * @array: le tableau à trier
  * @size: la taille du tableau
  */
+
 void selection_sort(int *array, size_t size)
 {
 	size_t i, j, plus_petit_indices;
