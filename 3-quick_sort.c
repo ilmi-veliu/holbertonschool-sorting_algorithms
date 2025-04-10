@@ -9,5 +9,8 @@
 
 void quick_sort(int *array, size_t size)
 {
+	int i = 0, j = 0;
+	listint_s pivot = NULL;
+
 
 }
