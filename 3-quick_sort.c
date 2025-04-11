@@ -60,7 +60,6 @@ void recusive_QS(int *array, size_t size, int left_index, int right_index)
 	}
 }
 
-
 /**
  * quick_sort - sorts an array of integers in ascending order
  * using the Quick sort algorithm
